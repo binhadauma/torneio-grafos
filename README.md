@@ -28,6 +28,10 @@ ficam com menos poder. O jogo mostra essa diferença.
 3. Clique em **Revelar** e veja o resultado.
 4. Abra "Ver a matemática" para ver as matrizes usadas.
 
+## Como acessar via web
+
+1.Entre no site [Torneios e Grafos](https://torneio-grafos.streamlit.app/)
+
 ## Como abrir no seu computador
 
 1. Instale o [Python](https://www.python.org/downloads/).
